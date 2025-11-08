@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+class FinalViewModel{
+    let message = "Ultima tela"
+}

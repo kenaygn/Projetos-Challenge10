@@ -7,6 +7,6 @@
 
 import Foundation
 
-class Onboarding1ViewModel{
-    let title = "Onboarding 1"
+class Onboarding2ViewModel{
+    let title = "Onboarding 2"
 }

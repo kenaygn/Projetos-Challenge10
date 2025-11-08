@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		3FD832552EBEE78D005C090C /* Exceptions for "MVVM+Coordinator" folder in "MVVM+Coordinator" target */ = {
+		3FD832962EBEF4EB005C090C /* Exceptions for "MVVM+Coordinator" folder in "MVVM+Coordinator" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -24,7 +24,7 @@
 		3FD832452EBEE78C005C090C /* MVVM+Coordinator */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				3FD832552EBEE78D005C090C /* Exceptions for "MVVM+Coordinator" folder in "MVVM+Coordinator" target */,
+				3FD832962EBEF4EB005C090C /* Exceptions for "MVVM+Coordinator" folder in "MVVM+Coordinator" target */,
 			);
 			path = "MVVM+Coordinator";
 			sourceTree = "<group>";
@@ -150,7 +150,6 @@
 				INFOPLIST_FILE = "MVVM+Coordinator/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -182,7 +181,6 @@
 				INFOPLIST_FILE = "MVVM+Coordinator/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (

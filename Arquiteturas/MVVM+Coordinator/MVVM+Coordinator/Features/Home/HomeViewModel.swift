@@ -6,3 +6,11 @@
 //
 
 import Foundation
+
+class HomeViewModel{
+    var user: User
+    
+    init(user: User) {
+        self.user = user
+    }
+}

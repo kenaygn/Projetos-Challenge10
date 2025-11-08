@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+class DetailsViewModel {
+    let info = "Detalhes do usúario"
+}

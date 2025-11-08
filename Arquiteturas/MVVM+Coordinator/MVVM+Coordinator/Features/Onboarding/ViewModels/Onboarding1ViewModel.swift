@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+class Onboarding1ViewModel{
+    let title = "Onboarding 1"
+}
